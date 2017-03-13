@@ -12,6 +12,8 @@
 
 ### 1.2 如何提好的 BUG
 
+![http://static.blogbook.com.cn/bug.png](http://static.blogbook.com.cn/bug.png)
+
 1. 产品模块：描述 BUG 发生的产品以及所属产品模块
 2. 所属项目：描述 BUG 所属项目
 3. 影响版本：描述 BUG 发生的版本
